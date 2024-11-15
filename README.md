@@ -29,8 +29,9 @@ To get a local copy of the project up and running, follow these steps:
 ```bash
 git clone https://github.com/your-username/drug-management-system.git
 cd drug-management-system
+```
 
-## Contributing
+### Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
