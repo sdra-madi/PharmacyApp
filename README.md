@@ -27,8 +27,8 @@ To get a local copy of the project up and running, follow these steps:
 
 ### 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/drug-management-system.git
-cd drug-management-system
+git clone https://github.com/your-username/PharmacyApp.git
+cd PharmacyApp
 ```
 
 ### Contributing
@@ -46,7 +46,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-📬 Contact
+
+## 📬 Contact
 For any questions or inquiries, feel free to reach out:
 
 Sdra Madi https://www.linkedin.com/in/sdra-madi/
